@@ -9,8 +9,8 @@ tags:
 - website
 ---
 
-I am happy to announce that we are in the progress to make an new document system and public channel to communite with our communite, this website will be the main channel for us to delivery all news and release to public.
+I am happy to announce that we are in the launched a new document system and public channel to communicate with our Necrobot community, this website will be the main channel for us to delivery all news and release to public. We also update site with config trick and telk you the better way to deal with your issue like Bag full, to many 100 IV, or reduce ban risk.
 
 
 
-Happy Bottin .. :)
+Happy botting .. :)
