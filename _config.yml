@@ -42,6 +42,9 @@ links:
     external: true
   - title: Documents
     url: /documents
+  - title: Downloads
+    url: https://github.com/Necrobot-Private/NecroBot/releases/latest
+    external: true
   - title: About
     url: /about
 
