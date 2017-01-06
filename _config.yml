@@ -1,31 +1,31 @@
-title:            CodeInventory
-description:      "Talk is cheap. Show me the code!"
+title:            NecroBot2
+description:      "The opensource c# pokemon go bot"
 logo:             logo.png
-disqus_shortname: codeinventorycom
+disqus_shortname: necrobot2com
 share:            true
 dropcap:	   true
 # Change url to your domain. Leave localhost server or blank when working locally.
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same 
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
-url:        	 http://www.codeinventory.com
+url:        	 http://necrobot2.com
 
 # Owner/author information
 owner:
-  name:           Amey Jadiye
-  avatar:         ameyjadiye.jpg
-  email:          ameyjadiye@gmail.com
+  name:           Necrobto2 Team
+  avatar:         Necrobto2.jpg
+  email:          Necrobto2Team@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    Programming is 1% knowledge, 2% ability and 97% getting the ability to work with the knowledge :)
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        ameyjadiye
-  facebook:       ameyjadiye
-  github:         ameyjadiye    
-  instagram:      ameyjadiye
+  twitter:        Necrobto2Team
+  facebook:       Necrobto2Team
+  github:         Necrobto2Team    
+  instagram:      Necrobto2Team
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    https://plus.google.com/u/0/+AmeyJadiye
+  google_plus:    https://plus.google.com/u/0/+Necrobto2Team
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   UA-46791108-1
+google_analytics:   UA-46791108-11
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
