@@ -1,6 +1,6 @@
 title:            NecroBot2
 description:      "The opensource c# pokemon go bot"
-logo:             logo.png
+logo:             necrobot2.jpg
 disqus_shortname: necrobot2com
 share:            true
 dropcap:	   true
@@ -37,6 +37,9 @@ links:
     url: /
     external: false
     icon: home
+  - title: Snipe
+    url: http://snipe.necrobot2.com
+    external:true
   - title: Documents
     url: /documents
   - title: About
