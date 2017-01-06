@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /about/index.html
-title: Amey Jadiye
-tags: [Amey, Jadiye]
+title: Necrobot2
+tags: [Necrobot2]
 chart: true
 ---
 
