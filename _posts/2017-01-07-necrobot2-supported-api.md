@@ -4,7 +4,7 @@ layout: post
 title: "Necrobot2 supported API version"
 date: 2017-01-07 10:30
 comments: true
-category: auth.config
+category: auth.json
 tags:
 - auth, hash server, hash key
 ---
