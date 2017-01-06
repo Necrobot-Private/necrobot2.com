@@ -39,6 +39,7 @@ links:
     icon: home
   - title: Snipe
     url: http://snipe.necrobot2.com
+    external:true
   - title: Documents
     url: /documents
   - title: About
