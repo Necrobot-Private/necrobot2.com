@@ -37,8 +37,8 @@ links:
     url: /
     external: false
     icon: home
-  - title: Categories
-    url: /categories
+  - title: Documents
+    url: /cocuments
   - title: About
     url: /about
 
