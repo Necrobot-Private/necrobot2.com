@@ -4,7 +4,7 @@ layout: post
 title: "Runing Necrobot2 with PF Hash service API"
 date: 2017-01-07 8:30
 comments: true
-category: Auth.json
+category: auth.json
 tags:
 - Auth, Hash,Starter Config
 ---
@@ -36,5 +36,8 @@ If you are existing necro user, you need to edit auth.json to add your key, look
   },```
 {% endhighlight json%}
 Change it with your key then start bot
+
+[Read More  -Necrobot2 supported API version ](/auth.json/2017/01/07/necrobot2-supported-api/)
+
 
 Happy botting
