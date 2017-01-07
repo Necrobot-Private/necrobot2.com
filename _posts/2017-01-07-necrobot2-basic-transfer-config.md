@@ -9,7 +9,7 @@ tags:
 - Transfer,Starter Config
 ---
 
-Thought, Transfer is the most issue I saw on discord that people as question, complain, worries, and angry about. I would ask you read this basic transfer config before run the bot to avoid any acident transfer your bag
+Thought, Transfer is the most issue I saw on discord that people as question, complain, worries, and angry about. I would ask you read this basic transfer config before run the bot to avoid any accident transfer your bag
 
 # Weak Transfer Pokemon
 
