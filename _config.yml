@@ -47,6 +47,8 @@ links:
     external: true
   - title: About
     url: /about
+  - title: Donate
+    url: /donate
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Asia/Calcutta
