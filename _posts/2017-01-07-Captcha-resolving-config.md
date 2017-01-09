@@ -28,6 +28,9 @@ We are using Chrome browser to display captcha then you solve captcha manualy, t
   }
 {% endhighlight %}
 
+```diff
+--NOTE: MANUAL CAPTCHA SOLVING REQUIRE CHROME BROWSER INSTALL ON YOUR MACHINE
+```
 
 # Auto resolving captcha with 2Captcha service
 
