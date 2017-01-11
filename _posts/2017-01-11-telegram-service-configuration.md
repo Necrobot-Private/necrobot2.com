@@ -1,7 +1,7 @@
 ---
 author: samuraitruong
 layout: post
-title: "Notification config"
+title: "Telegram configuration "
 date: 2017-01-11 0:30
 comments: true
 category: Config.json

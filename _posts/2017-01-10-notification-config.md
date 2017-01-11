@@ -4,7 +4,7 @@ layout: post
 title: "Notification config"
 date: 2017-01-07 0:30
 comments: true
-category: config.json
+category: Config.json
 tags:
 - notification
 ---
