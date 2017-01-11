@@ -47,7 +47,8 @@ You need access telegram from web or from your phone, after your NECROBOT start,
 
 If you have multiple Necrobot instance, you may need to create multiple telegram bot  but you also able to use 1 API key for all config.json. in that case when you type 1 command, all NECROBOT will anwser you, that is super good in case you want to snipe because all your bot recieve your command.
 
-``` dif ++NOTE: Snipe command is /Snipe PokemonName,Lat,Long   
+``` 
+diff++NOTE: Snipe command is /Snipe PokemonName,Lat,Long   
 
 ```
 
