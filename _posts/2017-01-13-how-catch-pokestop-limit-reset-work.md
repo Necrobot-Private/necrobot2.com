@@ -33,15 +33,14 @@ Necrobot has implement the kill switch will allow you never over the limit. it w
 	    ............
 	}
 
-	* *CatchPokemonLimit* :Number of pokemon you allow bot catch in duration setup in CatchPokemonLimitMinutes
+{% endhighlight %}
+
+* *CatchPokemonLimit* :Number of pokemon you allow bot catch in duration setup in CatchPokemonLimitMinutes
 	* *CatchPokemonLimitMinutes* : Duration 1470 minute ~ 24h
-
-{% endhighlight}
-
 
 - Pokestop limit
 
-{% highlight json}
+{% highlight json %}
 
  "PokeStopConfig": {
     "UsePokeStopLimit": true,
@@ -49,7 +48,7 @@ Necrobot has implement the kill switch will allow you never over the limit. it w
     "PokeStopLimitMinutes": 1470
   }
 
-{% endhighlight}
+{% endhighlight %}
 
 ```NOTE : When you turn on these option, BOT will output the message count everytime it catch pokemon or spin pokestop.```
 
