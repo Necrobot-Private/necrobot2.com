@@ -24,7 +24,7 @@ Necrobot has implement the kill switch will allow you never over the limit. it w
 
 - Catch limit
 
-{% highlight json}
+{% highlight json %}
 
 	 "PokemonConfig": {
 	    "UseCatchLimit": true,
