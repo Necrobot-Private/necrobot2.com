@@ -40,6 +40,9 @@ links:
   - title: Snipe
     url: http://snipe.necrobot2.com
     external: true
+  - title: MSniper
+    url: https://www.msniper.com
+    external: true  
   - title: Documents
     url: /documents
   - title: Downloads
