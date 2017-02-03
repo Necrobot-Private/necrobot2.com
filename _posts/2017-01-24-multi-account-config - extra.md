@@ -1,7 +1,20 @@
+---
+author: samuraitruong
+layout: post
+title: "Config multile account - extra (contribute community)"
+date: 2017-01-23 0:30
+comments: true
+category: Auth.json
+tags:
+- Auth, Multi Account
+---
+
 Easy instructions to set Necrobot to run multiple accounts one after each other
 
 1. In auth.json, set login credentials to your 1st account
-<% highlight json %>
+
+{% highlight json %}
+
   "AuthConfig": {
     "AuthType": "ptc",
     "GoogleUsername": null,
@@ -9,9 +22,9 @@ Easy instructions to set Necrobot to run multiple accounts one after each other
     "PtcUsername": "1st_account_name",
     "PtcPassword": "1st_account_pass"
    }
-<% endhighlight json %>
+{% endhighlight json %}
 2. Near bottom of auth.json set your other accounts
-<% highlight json %>
+{% highlight json %}
 
   "AllowMultipleBot": true,
   "Bots": [
@@ -30,9 +43,9 @@ Easy instructions to set Necrobot to run multiple accounts one after each other
       "PtcPassword": "3rd_account_pass"
     }
   ]
-<% endhighlight json %>
+{% endhighlight json %}
 3. In config.json, tweak the Multi Bot settings as desired
-  <% highlight json %>
+  {% highlight json %}
   "MultipleBotConfig": {
     "RuntimeSwitch": 55,
     "OnLimitPauseTimes": 15,
@@ -50,4 +63,4 @@ Easy instructions to set Necrobot to run multiple accounts one after each other
     "SwitchOnCatchLimit": true,
     "SwitchOnPokestopLimit": true
   }
-  <% endhighlight json %>
+  {% endhighlight json %}
