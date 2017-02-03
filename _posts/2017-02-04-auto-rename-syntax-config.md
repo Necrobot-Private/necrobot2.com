@@ -2,7 +2,7 @@
 author: samuraitruong
 layout: post
 title: "Auto rename config guide"
-date: 2017-02-4 0:30
+date: 2017-02-03 0:30
 comments: true
 category: Config.json
 tags:
