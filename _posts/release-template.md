@@ -17,6 +17,8 @@ tags:
 # Downloads
 {Downloads:- [{Key}]({Value})|
 }
-- [http://link1](Necrobot.cli.zip)
-- [http://link1](Necrobot.cli.zip)
-- [http://link1](Necrobot.cli.zip)
+
+
+#Supports
+
+Please join us on [https://discord.gg/7FWyWVp ](Discord - https://discord.gg/7FWyWVp )
