@@ -47,7 +47,6 @@ links:
     url: /documents
   - title: Downloads
     url: /documents/#Releases
-    external: false
   - title: About
     url: /about
   - title: Donate
