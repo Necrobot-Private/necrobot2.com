@@ -46,8 +46,7 @@ links:
   - title: Documents
     url: /documents
   - title: Downloads
-    url: http://necrobot2.com/documents/#Releases
-    external: false
+    url: /documents/#Releases
   - title: About
     url: /about
   - title: Donate
