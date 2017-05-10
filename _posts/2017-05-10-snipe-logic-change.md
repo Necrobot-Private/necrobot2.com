@@ -2,9 +2,9 @@
 author: Lord Haji
 layout: post
 title: "Sniping Logic Change Announcement"
-date: 2017-02-25 14:41
-comments: true
-category: Config.json
+date: 2017-05-10 10:05
+comments: false
+category: announcement
 tags:
 - Sniping
 ---
